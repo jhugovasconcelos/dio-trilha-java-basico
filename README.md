@@ -1,6 +1,6 @@
 # Conta Bancária Terminal 
 
-## Este é um programa simple
+## Este é um programa simples
 
 Apenas lê os dados do usuário e retorna-os
 
